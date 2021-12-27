@@ -1,7 +1,7 @@
 # menu.by
 
 Menu.by is the largest food delivery service in Belarus.
-Sadly, but now the service doesnt work.
+Sadly, but now the service doesn't work.
 
 
 Testing of the site menu.by
